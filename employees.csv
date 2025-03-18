@@ -1,0 +1,10 @@
+ID,Store_id,Name,Position
+1,1,Alice Manager,Manager
+2,1,Bob Cashier,Cashier
+3,1,Charlie Stocker,Stocker
+4,2,David Manager,Manager
+5,2,Eve Cashier,Cashier
+6,2,Frank Stocker,Stocker
+7,3,Grace Manager,Manager
+8,3,Heidi Cashier,Cashier
+9,3,Isaac Stocker,Stocker

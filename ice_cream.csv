@@ -1,0 +1,33 @@
+ID,Flavor,Dairy Free,Quantity,Price
+1,Vanilla,True,12,6
+2,Chocolate,False,39,4
+3,Strawberry,False,31,2
+4,Mint Chocolate Chip,False,15,3
+5,Cookies and Cream,False,14,3
+6,Rocky Road,True,15,5
+7,Butter Pecan,False,23,3
+8,Pistachio,True,20,4
+9,Neapolitan,False,15,4
+10,Coffee,False,13,5
+11,Caramel Swirl,True,50,5
+12,Chocolate Chip,False,21,2
+13,Birthday Cake,True,50,3
+14,Mango Sorbet,True,10,4
+15,Raspberry Ripple,True,43,4
+16,Coconut,False,40,5
+17,Peanut Butter Cup,False,27,5
+18,Brownie Batter,True,22,6
+19,Cherry Garcia,False,45,5
+20,Blueberry Cheesecake,True,31,3
+21,Salted Caramel,False,25,4
+22,Cotton Candy,False,13,5
+23,Black Raspberry,False,18,6
+24,Lemon Sorbet,False,15,4
+25,Maple Walnut,False,23,4
+26,Tiramisu,False,27,6
+27,Green Tea,False,48,6
+28,Honey Lavender,False,50,6
+29,Almond Joy,True,25,3
+30,Dulce de Leche,False,32,4
+31,Mocha Almond Fudge,False,30,4
+32,Bubble Gum,False,16,2
